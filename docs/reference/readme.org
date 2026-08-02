@@ -7,7 +7,7 @@
 ** Layout
 
 
-*** General Principles
+*** General Principles1
 
 - Use layers instead of reaching.
 - Use both hands instead of contortions.
